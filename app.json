@@ -1,0 +1,95 @@
+{
+  "id": "ee4d2baf-9e27-4ee2-b798-b5de876b31f2",
+  "name": "AmouFileWatch",
+  "publisher": "Thomas Scharf",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "d5fd7955-6d28-46da-aa36-0be228171b2d",
+      "publisher": "YAVEON AG",
+      "name": "ProE-SCM 365 Base",
+      "version": "6.10.92.0"
+    },
+    {
+      "id": "62ada417-5f71-42bb-a727-f45eac2f0aeb",
+      "publisher": "YAVEON AG",
+      "name": "ProE-SCM 365 Data Interfacing Platform",
+      "version": "6.10.92.0"
+    },
+    {
+      "id": "e4167402-835f-45b0-bb9a-2b728f5a258c",
+      "publisher": "YAVEON AG",
+      "name": "ProE-SCM 365 Dispatch & Packaging",
+      "version": "6.10.92.0"
+    },
+    {
+      "id": "923572d3-ffdb-46ad-bdaf-05ab82f49c70",
+      "publisher": "YAVEON AG",
+      "name": "ProE-SCM 365 EDI",
+      "version": "6.10.92.0"
+    },
+    {
+      "id": "1cef8c70-09fa-4fe4-82b1-45e02339d9eb",
+      "name": "ProLibrary",
+      "publisher": "YAVEON AG",
+      "version": "6.10.92.0"
+    },
+    {
+      "id": "ba5e92a6-b5c1-471d-ad51-1f407e627c27",
+      "name": "MODUS M365 Base",
+      "publisher": "MODUS Consult GmbH",
+      "version": "21.2.23041401.23041401"
+    },
+    {
+      "id": "55f90ee0-4bd1-416f-af27-dd6635383a78",
+      "name": "MODUS M365 Food Base",
+      "publisher": "MODUS Consult GmbH",
+      "version": "21.2.23032401.23032401"
+    },
+    {
+      "id": "6aa89a8b-f24e-44c2-b83c-3060537f3641",
+      "name": "MODUS M365 Base Report Set",
+      "publisher": "MODUS Consult GmbH",
+      "version": "21.2.23050301.23050301"
+    },
+    {
+      "id": "8a1b3e01-8a3f-4064-9559-58390f010a30",
+      "name": "MODUS M365 Editor",
+      "publisher": "MODUS Consult GmbH",
+      "version": "20.2.23060201.23060201"
+    },
+    {
+      "id": "3d1706e4-f2ac-4ab6-acdb-0e06262fd139",
+      "name": "MODUS M365 Editor Core",
+      "publisher": "MODUS Consult GmbH",
+      "version": "19.1.22090801.22090801"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+
+}
